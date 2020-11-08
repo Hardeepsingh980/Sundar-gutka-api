@@ -1,0 +1,1 @@
+web: gunicorn sundar_gutka_api.wsgi
